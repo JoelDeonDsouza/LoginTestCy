@@ -49,7 +49,7 @@ To run tests, run the following command
 | `/opensource-demo.orangehrmlive.com/index.php/auth/login` | `string` | **Required**. Demo API key, This is an cypress test run following automated Login |
 
 
-## Optimizations-LoginTest.js
+## Optimizations-LoginTest.js-LoginTest2.js
 In the folder, cypress contains another folder called integration which has two tests  LoginTest.js & LoginTest2.js.
 
 The first test, Contains the process of how a login process is tested and recorded.
