@@ -6,5 +6,4 @@ it("ForgotPassword", () => {
   cy.get("#securityAuthentication_userName").type("Admin");
   cy.get("#btnSearchValues").click();
   cy.get("#btnCancel").click();
-  //User Token is generated, To upload an new Password
 });
