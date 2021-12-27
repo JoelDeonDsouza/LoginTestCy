@@ -54,6 +54,6 @@ In the folder, cypress contains another folder called integration which has two 
 
 The first test, Contains the process of how a login process is tested and recorded.
 
-The second test, Contains How a user can Rest his her password.
+The second test, Contains How a user can Reset his her password.
 
 
